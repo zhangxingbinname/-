@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyView">
+        <attr name="rectwidth" format="dimension"/>
+        <attr name="rectspace" format="dimension"/>
+        <!--<attr name="width" format="float"/>-->
+        <!--<attr name="height" format="float"/>-->
+        <!--<attr name="top" format="float"/>-->
+        <!--<attr name="buttom" format="float"/>-->
+    </declare-styleable>
+</resources>
